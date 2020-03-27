@@ -1,3 +1,3 @@
 class song
   
-  attr_reader :song
+  attr_accessor :song
