@@ -1,4 +1,4 @@
-class song
+class Song
   
   attr_accessor :title 
   
@@ -6,4 +6,3 @@ class song
     @title = title
   end
 end 
-end
