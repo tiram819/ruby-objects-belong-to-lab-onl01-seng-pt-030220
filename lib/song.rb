@@ -6,3 +6,4 @@ class song
     @title = title
   end
 end 
+end
